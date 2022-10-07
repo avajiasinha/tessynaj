@@ -3,4 +3,5 @@
 #hi nishi
 
 ## Edith also suks at git
-#thanks nishi!
+
+# Avantika still sucks at git
