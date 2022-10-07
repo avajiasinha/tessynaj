@@ -1,0 +1,1 @@
+print("Avantika suks")
